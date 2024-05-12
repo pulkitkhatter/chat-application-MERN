@@ -1,7 +1,5 @@
-# Project Name
+# ChatApplication 
 
-## Description
-Brief description of the project.
 
 ## Prerequisites
 - Node.js installed
