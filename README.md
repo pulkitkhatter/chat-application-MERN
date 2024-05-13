@@ -18,10 +18,6 @@ MONGODB_URL=your_mongodb_url_here
 JWT_SECRET_KEY=your_jwt_secret_key_here
 
 
-## Building the Project
-Run the following command to build the project:
-
-npm run build
 
 ## Starting the Server
 Once the project is built, start the server using the following command:
