@@ -17,8 +17,6 @@ PORT=3000
 MONGODB_URL=your_mongodb_url_here
 JWT_SECRET_KEY=your_jwt_secret_key_here
 
-
-
 ## Starting the Server
 Once the project is built, start the server using the following command:
 
